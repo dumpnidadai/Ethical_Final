@@ -11,7 +11,7 @@ Vulnerability Summary
 
 Network Infrastructure
 Crital :
-Remote Code Execution vulnerability (CVE-2024-1234) in the Apache Struts framework (version 2.3.34) running on Lazada’s main server, potentially allowing an attacker to execute arbitrary code remotely.
+Remote Code Execution vulnerability in the Apache Struts framework (version 2.3.34) running on Lazada’s main server, potentially allowing an attacker to execute arbitrary code remotely.
 High :
 Misconfigured firewall rules on Shien payment processing server permitting unrestricted access from external IP ranges to sensitive internal services such as SSH and RDP.
 Web Applications
@@ -73,8 +73,8 @@ Regular Password Changes : Require users to change their passwords regularly, bu
 Use Two-Factor Authentication (2FA) : Consider implementing two-factor authentication for an added layer of security.
 Phishing Emails
 Rogue Access Point : Implement a Wireless Intrusion Prevention System (WIPS) to detect and neutralize rogue access points. Regularly monitor and audit the wireless network for any unauthorized devices.
-Weak Encryption (WEP) : Upgrade the encryption protocol on Lazada’s guest wireless network from WEP to a more secure standard such as WPA2 or WPA3. This will make it much harder for attackers to decrypt wireless traffic.
-Open Wireless Networks : Implement at least basic authentication for all wireless networks in Lazada’s office. Consider using a Virtual Private Network (VPN) for additional security. This will prevent unauthorized access to the network.
+Weak Encryption (WEP) : Upgrade the encryption protocol on Shien guest wireless network from WEP to a more secure standard such as WPA2 or WPA3. This will make it much harder for attackers to decrypt wireless traffic.
+Open Wireless Networks : Implement at least basic authentication for all wireless networks in Shien office. Consider using a Virtual Private Network (VPN) for additional security. This will prevent unauthorized access to the network.
 Phishing Emails
 Security Awareness Training : Conduct regular security awareness training for employees to help them identify and respond appropriately to phishing emails.
 Email Filtering : Implement email filtering solutions that can detect and block phishing emails.
