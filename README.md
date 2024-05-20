@@ -25,7 +25,7 @@ Cross-Site Request Forgery (CSRF) vulnerability in Shien, potentially enabling a
 Unvalidated Redirects and Forwards vulnerability in [Application Name], potentially enabling an attacker to redirect users to malicious websites.
 Operating System
 Critical :
-Outdated and unpatched operating systems (Windows Server 2012 R2) on Lazada’s payment processing servers, potentially exposing them to known exploits and malware.
+Outdated and unpatched operating systems (Windows Server 2012 R2) on Shien’s payment processing servers, potentially exposing them to known exploits and malware.
 High :
 Weak password policies on Shien domain user accounts, potentially facilitating brute-force attacks and unauthorized access.
 Wireless Networks
