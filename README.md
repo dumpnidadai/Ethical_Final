@@ -3,7 +3,7 @@ Client :  Shien clothing line
 
 Date : May 20, 2024
 
-Prepared By : Penafor,Bernadette and Manalo, Hannah Mie 
+Prepared By : Penaflor,Bernadette and Manalo, Hannah Mie 
 
 Executive Summary : This report presents the technical findings of the ethical hacking assessment conducted for Shien Clothing line. The assessment aimed to identify vulnerabilities within the organization's network infrastructure, applications, and systems. Through various testing methodologies, including penetration testing and vulnerability scanning, critical and high-risk issues were discovered. This report provides detailed descriptions of these findings, along with actionable recommendations for remediation.
 
